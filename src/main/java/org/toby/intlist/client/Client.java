@@ -1,10 +1,10 @@
-package org.toby.intlist;
+package org.toby.intlist.client;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Client
 {
     public static void main( String[] args )
     {
